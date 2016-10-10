@@ -69,7 +69,3 @@ Virtual garage is just what it says its a virtual garage system for Exile
 
 ### Additional Info
 you can configure the virtual garage setting via VirtualGarageSettings that you placed at the bottom of your config.cpp in your mission file
-
-This script was only written in about 2 days so may not be perfect so if you do find any bugs please post them on the forum post or message me on the Exile mod Forum
-
-If you have anything you would like to see added also feel free to post on the Forum post with your suggestion
